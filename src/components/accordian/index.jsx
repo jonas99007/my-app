@@ -6,5 +6,15 @@ export default function Accoridan(){
 
 const [selected, setSelected] = useState(null);
 
-    return<div> Accoridian</div>;
-}
+    return <div className="wrapper"> 
+    <div className="accordian">
+
+
+        {
+            
+        }
+
+
+
+    </div>;
+} 
