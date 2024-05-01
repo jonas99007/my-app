@@ -12,6 +12,7 @@ export default function Accordion() { // Corrected the spelling of 'Accordion'
     }
 
     function handleMultipleSelection(getCurrentId) {
+        let cpyMultiple = [...multiple];
     }
 
     console.log(selected);
