@@ -5,8 +5,18 @@
     width:100vw;
     justify-content: center;
     align_items:center;
+    flex-direction: column;
+    gap: 20px;
 }
 
+.wrapper button {  
+    padding: 10px 20px;
+    background:#614101;
+    color:#fff;
+    font-weight: bold; 
+    font-size: 20px; 
+    cursor: pointer;
+}   
 .accordian {
     width: 500px;
 }
@@ -29,5 +39,4 @@
 .content {
     color: #ffffff;
     height: auto; 
-
 }

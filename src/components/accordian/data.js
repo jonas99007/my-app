@@ -13,7 +13,13 @@ const data = [
       id: 3,
       question: "Who wrote 'Hamlet'?",
       answer: "William Shakespeare"
+    },
+    {
+      id: 4,
+      question: "What is the largest mammal?",
+      answer: "Blue Whale"
     }
+
   ];
 
   export default data;
